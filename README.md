@@ -1,5 +1,7 @@
 # node-chat-app
 
+Hello, My name is Tanmay Jha.
+
 Here I have build a chat application using socket.io in node.js
 
 You will find out the source file and public directory to learn how I use the concept of socket.io in my node.js chat application.
